@@ -1,0 +1,4 @@
+headless: true
+sort_by: "newest"
+download_images: false
+backup_to_json: false
